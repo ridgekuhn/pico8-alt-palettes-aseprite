@@ -1,0 +1,16 @@
+{
+  "name": "PICO-8 Alternate Palettes",
+  "displayName": "PICO-8 Alt",
+  "description": "PICO-8 Alternate Palettes for Aseprite",
+  "version": "1.0",
+  "author": { "name": "ridgek", "url": "https://github.com/ridgekuhn" },
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "PICO-8 Alt", "path": "./pico-8-alt.gpl" },
+			{ "id": "PICO-8 Full", "path": "./pico-8-full.gpl" }
+    ]
+  }
+}
